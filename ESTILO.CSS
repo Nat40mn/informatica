@@ -1,0 +1,19 @@
+header h1{
+    background: #2f23d6;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    line-height: 200px;
+    color:antiquewhite;
+    border-bottom: 10px solid;
+    font-size: 50px;
+}
+.clear{
+    clear:both;
+}
+#contenido{
+    float: left;
+    width: calc(80% - 80px);
+    min-height: 500px;
+    padding:40px
+}
